@@ -1,9 +1,10 @@
 import React from 'react'
-import logo from '../../assets/images/logo.png';
+// import logo from '../../assets/images/logo.png';
+import logs from '../../src/assets/images/Logo.png';
 
 
 const images = {
-    logo,
+    logs,
 }
 
 export default images
